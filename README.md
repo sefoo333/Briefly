@@ -20,7 +20,7 @@ A simple and fast note-taking app that lets you easily write and save your ideas
 # installation App 📱
 | Version | Release Date | Download |
 |---------|--------------|----------|
-| 1.0.0   | 2025-08-16   | [📥 Download APK](https://expo.dev/artifacts/eas/bEyUDAxP8r83eJXoGV8oWs.apk) |
+| 1.0.0   | 2025-08-17   | [📥 Download APK](https://expo.dev/artifacts/eas/bEyUDAxP8r83eJXoGV8oWs.apk) |
 
 ## Note ‼️
 This is a website code , the mobile code Not available now
