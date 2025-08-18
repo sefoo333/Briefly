@@ -9,7 +9,7 @@ export function QuickCTA() {
       </Badge> */}
       <div className="flex flex-col sm:flex-row gap-3 justify-center items-center">
         <a
-      href="https://expo.dev/artifacts/eas/6uEJ65vU3WGhabVf8TXwjM.apk"
+      href="https://expo.dev/artifacts/eas/jwT7bHAXFRH4xkJZzPy5js.apk"
       download
       target="_blank"
       rel="noopener noreferrer"
