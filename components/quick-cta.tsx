@@ -9,7 +9,7 @@ export function QuickCTA() {
       </Badge> */}
       <div className="flex flex-col sm:flex-row gap-3 justify-center items-center">
         <a
-      href="https://expo.dev/artifacts/eas/bEyUDAxP8r83eJXoGV8oWs.apk"
+      href="https://expo.dev/artifacts/eas/6uEJ65vU3WGhabVf8TXwjM.apk"
       download
       target="_blank"
       rel="noopener noreferrer"
@@ -18,9 +18,14 @@ export function QuickCTA() {
           Download Now
         </Button>
      </a>
+       <a
+         href="https://github.com/sefoo333/Briefly/"
+         target="_blank"
+         >
         <Button variant="outline" size="lg">
-          View Demo
+          Github Repo
         </Button>
+       </a>
       </div>
     </div>
   )
