@@ -86,7 +86,7 @@ export function HeroSection() {
         </p>
 
         <div className="flex gap-3">
-           <Link href="https://expo.dev/artifacts/eas/jwT7bHAXFRH4xkJZzPy5js.apk" download target="_blank" rel="noopener noreferrer">
+           <Link href="https://expo.dev/artifacts/eas/tT4sP9rF8fgKR3anrcKkje.apk" download target="_blank" rel="noopener noreferrer">
           <Button className="bg-[#6c63ff] text-[#f3f3f3] hover:bg-[#6c63ff]/90 px-9 py-6 rounded-full font-medium text-lg shadow-lg">
            Download Now
           </Button>
