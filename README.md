@@ -21,6 +21,7 @@ A simple and fast note-taking app that lets you easily write and save your ideas
 | Version | Release Date | Download |
 |---------|--------------|----------|
 | 1.0.0   | 2025-08-17   | [📥 Download APK](https://expo.dev/artifacts/eas/jwT7bHAXFRH4xkJZzPy5js.apk) |
+| 1.0.1   | 2025-08-20   | [📥 Download APK](https://expo.dev/artifacts/eas/tT4sP9rF8fgKR3anrcKkje.apk) |
 
 ## Note ‼️
 This is a website code , the mobile code Not available now
