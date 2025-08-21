@@ -45,7 +45,7 @@ export function Header() {
         </div>
         
         <div className="flex items-center gap-4">
-          <Link href="https://expo.dev/artifacts/eas/jwT7bHAXFRH4xkJZzPy5js.apk" download target="_blank" rel="noopener noreferrer" className="">
+          <Link href="https://expo.dev/artifacts/eas/tT4sP9rF8fgKR3anrcKkje.apk" download target="_blank" rel="noopener noreferrer" className="">
             <Button className="bg-secondary text-secondary-foreground hover:bg-secondary/90 px-6 py-2 rounded-full font-medium shadow-sm">
               Try for Free
             </Button>
